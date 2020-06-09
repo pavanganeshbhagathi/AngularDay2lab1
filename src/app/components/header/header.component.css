@@ -1,0 +1,10 @@
+header {
+  background-color: red;
+  color: white;
+  height: 5em;
+
+  text-justify: auto;
+  justify-content: start;
+   padding-top: 0.5%;
+   padding-left: 2%;
+}
